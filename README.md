@@ -9,8 +9,6 @@ All new test
 
 latest try for branching
 
-## deleted 2 lines added 1
+## deleted 3 lines
 
-Halalala Cool
-
-after glow
+added 1 line
